@@ -1,4 +1,5 @@
 require_relative '../lib/position_taken.rb'
+require_relative '../lib/board.rb'
 
 describe '#position_taken? in lib/position_taken.rb' do
   it 'accepts a board and the position to check as arguments' do
